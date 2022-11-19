@@ -1,1 +1,1 @@
-This is my first directory in git
+This is an updated readme file
